@@ -80,10 +80,14 @@
   </p>
   <p>
   <a href="https://github.com/pablofazio02?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+    <img 
+        alt="All Repositories" 
+        title="All Repositories" 
+        src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-40CFFF?style=for-the-badge&logoColor=white&logo=repo"
+    />
+</a>
   &nbsp;
-  <a href="https://bitbucket.org/umafoss/" target="_blank">
+  <a href="https://bitbucket.org/umafoss/talfuma/src/trabajo5-Pablo-Fazio/" target="_blank">
     <img alt="See other repos in Bitbucket" title="See other repos in Bitbucket" src="https://img.shields.io/badge/See%20other%20repos%20in%20Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   </a>
   </a>
@@ -94,14 +98,12 @@
 <summary><h2>📊 GitHub Stats</h2></summary>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="pablofazio02's Github Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=pablofazio02&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=0074CC&icon_color=F8D866&border_color=000000"
-      height="192px"/>
-  </a>
+    <img align = "center" height=200 alt="pablofazio02's Github Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=pablofazio02" />
+  </a>&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="pablofazio02's Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofazio02&langs_count=8&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0074CC&icon_color=F8D866&border_color=000000&hide=Jupyter%20Notebook,Roff"
-      height="192px"/>
+    <img align = "center" height=200 alt="pablofazio02's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofazio02&langs_count=8&layout=compact&hide=Jupyter%20Notebook,Roff" />
   </a>
 </p>
 </details>
