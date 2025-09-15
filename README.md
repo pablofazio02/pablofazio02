@@ -67,7 +67,7 @@
 
 <details open>
   <summary><h2>📘 My Projects</h2></summary>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/pablofazio02/University-CS-Math">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pablofazio02&repo=University-CS-Math&theme=react&bg_color=1F222E&title_color=0074CC&hide_border=true&icon_color=F8D866&show_icons=false" alt="University-CS-Math">
     </a>
