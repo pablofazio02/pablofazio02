@@ -22,10 +22,10 @@
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-      <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
-      <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-F80000.svg?logo=oracle&logoColor=white">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white">
       <img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp&logoColor=white">
       <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85.svg?logo=haskell&logoColor=white">
@@ -41,6 +41,10 @@
   <p>
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+      <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
   </p>
 
   <h3>🗄️ Databases</h3>
@@ -50,7 +54,7 @@
 
   <h3>💡 Software and Tools</h3>
   <p>
-      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
       <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white">
@@ -58,6 +62,12 @@
       <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
       <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white">
       <img alt="XSS" src="https://img.shields.io/badge/XSS-2B2B2B.svg?logo=hackthebox&logoColor=green">
+      <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+
+
+
   </p>
 </details>
 
