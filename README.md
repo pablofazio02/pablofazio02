@@ -70,27 +70,38 @@
   <p align="center">
     <a href="https://github.com/pablofazio02/University-CS-Math">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pablofazio02&repo=University-CS-Math&theme=react&bg_color=1F222E&title_color=0074CC&hide_border=true&icon_color=F8D866&show_icons=false" alt="University-CS-Math">
-    </a>
+    </a>&nbsp;
     <a href="https://github.com/nuritapedrosa/g5-ListApp">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=nuritapedrosa&repo=g5-ListApp&theme=react&bg_color=1F222E&title_color=0074CC&hide_border=true&icon_color=F8D866&show_icons=false" alt="g5-ListApp">
-    </a>
+    </a>&nbsp;
     <a href="https://github.com/lvargasgarcia/Trabajo_ABD">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=lvargasgarcia&repo=Trabajo_ABD&theme=react&bg_color=1F222E&title_color=0074CC&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trabajo_ABD">
     </a>
   </p>
+  <p>
   <a href="https://github.com/pablofazio02?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
+  &nbsp;
+  <a href="https://bitbucket.org/umafoss/" target="_blank">
+    <img alt="See other repos in Bitbucket" title="See other repos in Bitbucket" src="https://img.shields.io/badge/See%20other%20repos%20in%20Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  </a>
+  </a>
+</p>
 </details>
 
 <details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="pablofazio02's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=pablofazio02&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0074CC&icon_color=F8D866" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="pablofazio02's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofazio02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0074CC&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-    </a>
-  </p>
+<summary><h2>📊 GitHub Stats</h2></summary>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="pablofazio02's Github Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=pablofazio02&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=0074CC&icon_color=F8D866&border_color=000000"
+      height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="pablofazio02's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofazio02&langs_count=8&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0074CC&icon_color=F8D866&border_color=000000&hide=Jupyter%20Notebook,Roff"
+      height="192px"/>
+  </a>
+</p>
 </details>
